@@ -1,4 +1,4 @@
-# rotating the matix
+# Rotating The Matix
 
 rotate the 2d matrix given by 90 degrees anticlockwise inplace. note that no new 2d matrix should be created.
 
