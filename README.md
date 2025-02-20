@@ -2,7 +2,12 @@
 
 rotate the 2d matrix given by 90 degrees anticlockwise inplace. note that no new 2d matrix should be created.
 
-**eg:**          [[1, 2, 3],\n[4 ,5 ,6],\n[7 ,8 ,9]]
+**eg:**          
+[
+[1, 2, 3],
+[4 ,5 ,6],
+[7 ,8 ,9]
+]
 
 **answer:** [[3, 6, 9], [2, 5, 8], [1, 4, 7]]
 
