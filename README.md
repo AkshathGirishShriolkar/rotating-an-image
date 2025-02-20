@@ -8,18 +8,16 @@ rotate the 2d matrix given by 90 degrees anticlockwise inplace. note that no new
 
 ## Input Format
 
-s= a string
-
- k= an integer
+image =[[1, 2, 3],[4 ,5 ,6],[7 ,8 ,9]]
 
 # Output Format
 
-- n where n is an integer
+[[3, 6, 9], [2, 5, 8], [1, 4, 7]]
 
 # Constraints
 
-- 0 <= s.length < 10^6
-- 0 <= n < 10^6
+- 0 <= image.length < 100
+
 
 ## Testcases
 
