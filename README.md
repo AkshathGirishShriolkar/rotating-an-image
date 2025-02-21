@@ -104,6 +104,7 @@ image =[[1, 2, 3],[4 ,5 ,6],[7 ,8 ,9]]
 - so basically, the inner loop must iterate through i to leng where i is the ith array in the larger array
 
 ```
+input array as image
 leng=len(image)
 for i from 0 to leng-1:
     image[i].reverse()
@@ -115,6 +116,7 @@ for i from 0 to leng-1:
 ### Implementation
 
 ```
+image=eval(input())
 leng=len(image)
 for i in range(len(image)):
     image[i].reverse()
