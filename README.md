@@ -120,6 +120,7 @@ for i from 0 to leng-1:
 for i from 0 to leng-1:
     for j from i to leng-1:
         swap image[i][j] and image[j][i]
+print image
  ```
 
 ### Implementation
@@ -132,4 +133,5 @@ for i in range(len(image)):
 for i in range(len(image)):
     for j in range(i, len(image)):
         (image[i])[j], image[j][i]=image[j][i],(image[i])[j]
+print(image)
 ```
