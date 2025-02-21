@@ -22,7 +22,7 @@ rotate the 2d matrix given by 90 degrees anticlockwise inplace. note that no new
 
 ## Input Format
 
-image =[[1, 2, 3],[4 ,5 ,6],[7 ,8 ,9]]
+[[1, 2, 3],[4 ,5 ,6],[7 ,8 ,9]]
 
 # Output Format
 
