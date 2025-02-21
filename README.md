@@ -15,8 +15,8 @@ rotate the 2d matrix given by 90 degrees anticlockwise inplace. note that no new
 ```
 [
 [3, 6, 9],
- [2, 5, 8],
- [1, 4, 7]
+[2, 5, 8],
+[1, 4, 7]
 ]
 ```
 
